@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["listening to .gg/eisa"];
+const statusMessages = ["playing to .gg/eisa"];
 
 
 let currentIndex = 0;
